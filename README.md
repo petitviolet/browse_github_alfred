@@ -2,9 +2,8 @@
 
 ## requirement
 
-- ghq
-- jq
-- jo
+- [motemen/ghq](https://github.com/motemen/ghq)
+- [jpmens/jo](https://github.com/jpmens/jo)
 
 ## Usage
 
